@@ -1,10 +1,35 @@
 {
   "version": 1,
   "skills": {
+    "caption-writer": {
+      "source": "/home/user/New/caption-writer",
+      "sourceType": "local",
+      "computedHash": "c8cfd255adb373357fb7eae177c5462ec07b1cfd8e090ae0f16198e16964bb88"
+    },
+    "content-calendar": {
+      "source": "/home/user/New/content-calendar",
+      "sourceType": "local",
+      "computedHash": "6b87cb2903eb8004cae5b5ce3bd6c5084ede04d8b5121ee464e5f10c571f0347"
+    },
+    "content-repurposer": {
+      "source": "/home/user/New/content-repurposer",
+      "sourceType": "local",
+      "computedHash": "5d3013ed18faa78cb2d2ab516df4337fde9dd23abf920ac64534dae1431daa86"
+    },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
       "computedHash": "d2b5bcc7c09fdb649129ffc7dd7b647ec1b155736974b974292675afd588cb39"
+    },
+    "hashtag-generator": {
+      "source": "/home/user/New/hashtag-generator",
+      "sourceType": "local",
+      "computedHash": "b504134d8aefcf8028d7ec133d236faeef2f5b80b61c482db6f9433cb3f98405"
+    },
+    "social-post-writer": {
+      "source": "/home/user/New/social-post-writer",
+      "sourceType": "local",
+      "computedHash": "5d0a1d1ba275273b94c9d5e632ea9366965eeb4717682da412acbfd0308c1d38"
     },
     "vercel-cli-with-tokens": {
       "source": "vercel-labs/agent-skills",
